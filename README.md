@@ -19,7 +19,7 @@ playing bad apple in mechanica (made for linux - may not work with windows)
 you could probably do this with wsl2, but as of now unsupported
 screenshots might not work
 
-#macos instructions:
+# macos instructions:
 good luck lmao
 (just try to copy linux instructions - mac os is pretty similar to linux as they're based on unix)
 screenshots might not work
