@@ -1,0 +1,4 @@
+this project relies on gtk 3.0 (and pygobject as a result)
+
+pls follow the guide here to install it for your system:
+https://pygobject.readthedocs.io/en/latest/getting_started.html#ubuntu-getting-started
