@@ -1,0 +1,11 @@
+pyautogui
+opencv-python
+cv
+os
+numpy
+Pillow
+glob
+pynput
+gdk
+matplotlib
+PyGObject
